@@ -1,0 +1,4 @@
+Didin adri resolusi
+- Konsisten membuat kontens 2 kali seminggun
+- membuat platform untuk pengelolan Video
+- Membuat Forum diskusi
