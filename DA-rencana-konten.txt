@@ -3,6 +3,7 @@ RENCANA KONTEN
 - javascript
   * ES 6
   * Framework javascript
+    ^ Angular
     ^ Vue 
     ^ React
 - Fundamental struktur Data
